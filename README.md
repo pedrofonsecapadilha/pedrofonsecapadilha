@@ -8,7 +8,7 @@
 
 <!-- PRECISA CONCERTAR O LINK DO RESUME -->
 
-<p>✍ You can find my <a href="https://drive.google.com/file/d/1EkAGrKQZudKWvlkS89GDegINZX-VcNTS/view?usp=share_link"><b>Resume</b></a> here</p>
+<p>✍ You can find my <a href="https://drive.google.com/file/d/1EkAGrKQZudKWvlkS89GDegINZX-VcNTS/view?usp=share_link" target="_blank"><b>Resume</b></a> here</p>
 <p>🌱 I’m <strike>currently</strike> always learning new stuff</p>
 <p>🎓 I’m also a Energy Engineer</p>
 <p>📫 Reach out to me: pedrofpadilha@gmail.com</p>
