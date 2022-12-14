@@ -9,8 +9,9 @@
 <p>🌱 I’m <strike>currently</strike> always learning new stuff</p>
 <p>🎓 I’m also an Energy Engineer</p>
 <p>📫 Reach out to me: pedrofpadilha@gmail.com</p>
+<br>
+<br>
 
-<!-- COLOCAR HOBBIES AQUI -->
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/1865/1865273.png" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1960/1960954.png" width="50" height="50"/>
