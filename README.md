@@ -79,9 +79,9 @@
 <div align="center">
   <h2 align="center">📊  Github Stats  📊</h2> 
 
-  [![](https://github-readme-stats.vercel.app/api?username=pedrofonsecapadilha&show_icons=true&theme=dark)]
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=pedrofonsecapadilha&theme=dark)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofonsecapadilha&theme=dark&layout=compact)])
+  ![](https://github-readme-stats.vercel.app/api?username=pedrofonsecapadilha&show_icons=true&theme=dark)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrofonsecapadilha&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofonsecapadilha&theme=dark&layout=compact)
 <br>
 </div>
 
