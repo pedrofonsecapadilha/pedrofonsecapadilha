@@ -4,41 +4,45 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&pause=1000&color=F7F7F7&width=435&lines=More+about+me+.+.+." alt="Typing SVG" /></a>
 
-<p>💻 I’m a fullstack developer</p>
-
-<!-- PRECISA CONCERTAR O LINK DO RESUME -->
-
+<p>💻 I’m a Full Stack Developer</p>
 <p>✍ You can find my <a href="https://drive.google.com/file/d/1EkAGrKQZudKWvlkS89GDegINZX-VcNTS/view?usp=share_link" target="_blank"><b>Resume</b></a> here</p>
 <p>🌱 I’m <strike>currently</strike> always learning new stuff</p>
-<p>🎓 I’m also a Energy Engineer</p>
+<p>🎓 I’m also an Energy Engineer</p>
 <p>📫 Reach out to me: pedrofpadilha@gmail.com</p>
+
+<!-- COLOCAR HOBBIES AQUI -->
 
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&duration=7500&pause=750&color=F7F7F7&width=435&lines=Languages+and+Tools+%F0%9F%9B%A0+" alt="Typing SVG" /></a>
 
-<!-- PRECISA CONCERTAR OS LINKS E ICONES (DEV_ICONS & ICONS9) -->
+<!-- ICONES (DEV_ICONS & ICONS9) -->
 
 <p align="left">
+  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/512/ruby-programming-language.png" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> </a>
   <!-- <a href="https://github.com/pedrofonsecapadilha" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> </a> -->
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://img.icons8.com/color/512/console.png" width="40" height="40"/> </a>
-  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" height="40"/> </a>
   <a href="https://html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/Database" target="_blank"> <img src="https://img.icons8.com/office/512/database.png" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> </a>
+  <a href="https://www.npmjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a>
+  <a href="https://yarnpkg.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" height="40"/> </a>     
+  <a href="https://webpack.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="40" height="40"/> </a>        
+  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/> </a>
+  <a href="https://www.autodesk.com.br/" target="_blank"> <img src="https://img.icons8.com/color/512/autodesk-autocad.png" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365?rtc=1" target="_blank"> <img src="https://img.icons8.com/color/512/ms-excel.png" width="40" height="40"/> </a>
   
-          
-
-          
-  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
+  
   
   
 
@@ -48,7 +52,6 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/edit/
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/AbhigyanTrips.md
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/edit/master/templates/0xabdulkhalid.md
 
-TENTAR VER O GRÁFICO RADAR!!!
 -->
 
 ---
