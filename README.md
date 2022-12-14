@@ -8,7 +8,7 @@
 
 <!-- PRECISA CONCERTAR O LINK DO RESUME -->
 
-<p>✍ You can find my <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>Resume</b></a> here</p>
+<p>✍ You can find my <a href="https://drive.google.com/file/d/1EkAGrKQZudKWvlkS89GDegINZX-VcNTS/view?usp=share_link"><b>Resume</b></a> here</p>
 <p>🌱 I’m <strike>currently</strike> always learning new stuff</p>
 <p>🎓 I’m also a Energy Engineer</p>
 <p>📫 Reach out to me: pedrofpadilha@gmail.com</p>
@@ -17,20 +17,30 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&duration=7500&pause=750&color=F7F7F7&width=435&lines=Languages+and+Tools+%F0%9F%9B%A0+" alt="Typing SVG" /></a>
 
-<!-- PRECISA CONCERTAR OS LINKS E ICONES -->
+<!-- PRECISA CONCERTAR OS LINKS E ICONES (DEV_ICONS & ICONS9) -->
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    <a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
-</p>
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/512/ruby-programming-language.png" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> </a>
+  <!-- <a href="https://github.com/pedrofonsecapadilha" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> </a> -->
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://img.icons8.com/color/512/console.png" width="40" height="40"/> </a>
+  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" height="40"/> </a>
+  <a href="https://html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> </a>
+  
+          
+
+          
+  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
+  <a href="" target="_blank"> <img src="" width="40" height="40"/> </a>
+  
+  
 
 <!-- LINKS DOS MODELOS
 
