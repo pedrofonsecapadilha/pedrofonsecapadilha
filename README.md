@@ -30,7 +30,6 @@
   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/512/ruby-programming-language.png" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> </a>
-  <!-- <a href="https://github.com/pedrofonsecapadilha" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> </a> -->
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://img.icons8.com/color/512/console.png" width="40" height="40"/> </a>
@@ -39,6 +38,7 @@
   <a href="https://en.wikipedia.org/wiki/Database" target="_blank"> <img src="https://img.icons8.com/office/512/database.png" width="40" height="40"/> </a>
   <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> </a>
+  <br>
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a>
   <a href="https://yarnpkg.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="50" height="50"/> </a>     
