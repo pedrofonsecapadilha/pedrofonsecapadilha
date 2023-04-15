@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&pause=1000&color=F7F7F7&width=435&lines=More+about+me+.+.+." alt="Typing SVG" /></a>
 
 <p>💻 I’m a Full Stack Developer</p>
-<p>✍ You can find my <a href="https://drive.google.com/file/d/1ydLQ_RjnUWIYCsgflATMt0QBtN_NHo6p/view?usp=share_link" target="_blank"><b>Resume</b></a> here</p>
+<p>✍ You can find my <a href="https://drive.google.com/file/d/1Qc3UWvQotWG0wqTnDLFyat6WyBBE9D7s/view?usp=share_link" target="_blank"><b>Resume</b></a> here</p>
 <p>🌱 I’m <strike>currently</strike> always learning new stuff</p>
 <p>🎓 I’m also an Energy Engineer</p>
 <p>📫 Reach out to me: pedrofpadilha@gmail.com</p>
