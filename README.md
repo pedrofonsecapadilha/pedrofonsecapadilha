@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&pause=1000&color=F7F7F7&width=435&lines=More+about+me+.+.+." alt="Typing SVG" /></a>
 
-<p>💻 I’m a Full Stack Developer!</p>
+<p>💻 I’m a Data Scientist and Full Stack Developer!</p>
 <p>✍ You can find my <a href="https://drive.google.com/file/d/17GvQ1mKRMu6Qw6SubSFGKHGSTuBmjV5M/view?usp=sharing" target="_blank"><b>Resume</b></a> here</p>
 <p>🌱 I’m <strike>currently</strike> always learning new stuff</p>
 <p>🎓 I’m also an Energy Engineer</p>
