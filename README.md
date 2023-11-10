@@ -26,7 +26,11 @@
 
 <!-- ICONES (DEV_ICONS & ICONS9 & flaticon) -->
 
+
 <p align="center">
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/pedrofonsecapadilha/pedrofonsecapadilha/assets/113715845/ec117094-ee36-4b2d-9ac7-27911faca4cb" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/pedrofonsecapadilha/pedrofonsecapadilha/assets/113715845/2d2a9f75-0ee2-4bbb-ad1d-2dfc2d3bd899" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/pedrofonsecapadilha/pedrofonsecapadilha/assets/113715845/4c69aeb7-1a5f-4764-a07b-396120f0e3a7" width="40" height="40"/></a>
   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/512/ruby-programming-language.png" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> </a>
@@ -49,15 +53,8 @@
   <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/> </a>
   <a href="https://www.autodesk.com.br/" target="_blank"> <img src="https://img.icons8.com/color/512/autodesk-autocad.png" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/pt-br/microsoft-365?rtc=1" target="_blank"> <img src="https://img.icons8.com/color/512/ms-excel.png" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://icons8.com.br/icon/AZOZNnY73haj/github" width="40" height="40"/></a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
-  
+  <a href="https://github.com/pedrofonsecapadilha" target="_blank"> <img src="https://github.com/pedrofonsecapadilha/pedrofonsecapadilha/assets/113715845/63ded06c-dcf0-4206-9731-2d1d17b78fcd" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://github.com/pedrofonsecapadilha/pedrofonsecapadilha/assets/113715845/ff60b093-0442-4f81-ad92-8f2bf2b88027" width="40" height="40"/></a>  
 <br>
 <br>
 <br>
