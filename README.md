@@ -50,7 +50,7 @@
   <a href="https://www.autodesk.com.br/" target="_blank"> <img src="https://img.icons8.com/color/512/autodesk-autocad.png" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/pt-br/microsoft-365?rtc=1" target="_blank"> <img src="https://img.icons8.com/color/512/ms-excel.png" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="40" height="40"/></a>
-  <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
+  <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" width="40" height="40"/></a>
   <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
   <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
   <a href="" target="_blank"> <img src="" width="40" height="40"/></a>
